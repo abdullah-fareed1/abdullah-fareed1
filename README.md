@@ -5,10 +5,10 @@
 
 *I build things that should probably take a team — alone, from Sri Lanka, between assignments and deadlines.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareed-abdullah/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullh.far)
-[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahfareed882@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-fareed1)
+<a href="https://linkedin.com/in/fareed-abdullah/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/abdullh.far"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:abdullahfareed882@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/abdullah-fareed1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -20,7 +20,7 @@ I'm a final-year Fullstack Software Engineering student at Birmingham City Unive
 
 My main language is **Java**, and I'm deep into the Spring Boot ecosystem — API design, JPA/Hibernate ORM, JWT auth, database engineering, the works. On the frontend I work with **React**, **Next.js**, and **TypeScript**, and I take performance and SEO seriously, not as afterthoughts.
 
-I'm the kind of developer who reads about Factory Design Patterns at 2am, implements them by morning, and then connects the result to a live Binance websocket feed. I'm looking for the kind of team that values that.
+I'm the kind of developer who sketches out an Observer Pattern at midnight because a websocket feed needs 12 subscribers with different responsibilities, wires it up by dawn, and ships it before breakfast. I'm looking for the kind of team that values that.
 
 > *"No corporate experience yet. No degree yet. But I've already shipped what most don't attempt."*
 
@@ -37,9 +37,9 @@ A full SaaS platform that lets traders design algorithmic trading bots using a *
 - Connected to **Binance WebSocket API** for live crypto data feeds and **Dukascopy** for Forex feeds
 - Integrated **FIX API** to connect with a live CTrader demo account — bots generated real trade execution signals that **executed successfully**
 - Frontend drag-and-drop interface serialises user-designed bot logic to **JSON**, which the backend reconstructs into a live, executable trading algorithm
-- Fully built **alone**, between university assignments and personal setbacks
+- MVP built **alone**, between university assignments and personal setbacks
 
-🌐 Frontend live at [algoracloud.com](http://algoracloud.com)
+Frontend live at [algoracloud.com](http://algoracloud.com)
 
 
 
@@ -52,7 +52,7 @@ Contracted remotely to build the public-facing website for **Synergic Intelligen
 - Heavily optimised for **Core Web Vitals**, SEO, and fast load times
 - Production-grade frontend delivered remotely as a solo developer
 
-🌐 Live at [synergic.vercel.app](https://synergic.vercel.app)
+Live at [synergic.vercel.app](https://synergic.vercel.app)
 
 
 
@@ -66,6 +66,25 @@ Built a full **Point of Sale and Inventory Management System** for a textile ret
 - Printable **receipts, refund receipts, Good Receive Notes, and stock return notes**
 - End-to-end, from database design to UI — shipped and deployed for a real business
 
+
+
+### 🎨 Rahdel — Software Agency Website · Sri Lanka
+> *Next.js · TypeScript · Tailwind CSS · SEO · Logo Design*
+
+Designed and built the full public-facing website for **Rahdel**, a software agency based in Sri Lanka — including the brand logo.
+
+- Fully optimised for **Core Web Vitals**, SEO, and high-speed loading
+- Handled everything from visual identity to frontend engineering as a solo effort
+
+Live at [rahdel.lk](https://rahdel.lk)
+
+
+### 🛍️ Resemblite — E-Commerce Store *(Self-Started)*
+> *WordPress · Self-Taught*
+
+Built an e-commerce store from scratch during school — no courses, just YouTube and pure curiosity. It still receives **hundreds of orders every month** and I maintain it to this day. This is where the obsession with building things began.
+
+Live at [resemblite.com](https://resemblite.com)
 
 
 ### 🏨 Hotel Management App *(In Progress)*
@@ -110,10 +129,6 @@ Currently building a Hotel Management Android application for a university assig
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-fareed1&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fareed1&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-fareed1&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&border=333333)
 
