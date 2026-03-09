@@ -1,31 +1,138 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A fullstack Software Engineer from Sri Lanka</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-fareed1" alt="abdullah-fareed1" /></a> </p>
+# Hey, I'm Abdullah. 👋
+### Fullstack Software Engineering Undergrad · Birmingham City University · Final Year
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+*I build things that should probably take a team — alone, from Sri Lanka, between assignments and deadlines.*
 
-- 🔭 I’m currently working on **Stayease Hotel Management App**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fareed-abdullah/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullh.far)
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahfareed882@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah-fareed1)
 
-- 🌱 I’m currently learning **Spring Boot, Nextjs**
+</div>
 
-- 👨‍💻 All of my projects are available at [abdullahfareed.me](abdullahfareed.me)
 
-- 💬 Ask me about **Reactjs, Expressjs, Nextjs**
 
-- 📫 How to reach me **abdullahfareed882@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fareed-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareed-abdullah" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullh.far" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullh.far" height="30" width="40" /></a>
-</p>
+I'm a final-year Fullstack Software Engineering student at Birmingham City University, based in Sri Lanka. I don't wait to graduate to build real things — I've already architected a full SaaS trading platform from scratch, shipped production websites for companies abroad, and built internal systems used by actual businesses.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+My main language is **Java**, and I'm deep into the Spring Boot ecosystem — API design, JPA/Hibernate ORM, JWT auth, database engineering, the works. On the frontend I work with **React**, **Next.js**, and **TypeScript**, and I take performance and SEO seriously, not as afterthoughts.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-fareed1&show_icons=true&locale=en&layout=compact" alt="abdullah-fareed1" /></p>
+I'm the kind of developer who reads about Factory Design Patterns at 2am, implements them by morning, and then connects the result to a live Binance websocket feed. I'm looking for the kind of team that values that.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-fareed1&show_icons=true&locale=en" alt="abdullah-fareed1" /></p>
+> *"No corporate experience yet. No degree yet. But I've already shipped what most don't attempt."*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-fareed1&" alt="abdullah-fareed1" /></p>
+
+
+## 🔨 What I've Built
+
+### 🤖 AlgoraCloud — No-Code Algorithmic Trading SaaS
+> *Spring Boot · React · WebSockets · FIX API · Factory Design Pattern · Binance · Dukascopy · CTrader*
+
+A full SaaS platform that lets traders design algorithmic trading bots using a **drag-and-drop visual interface** — no code required. Think Miro, but for trading logic.
+
+- Designed **Executable Algorithm Objects** using the **Factory Design Pattern** — each fully composable and customisable in a block-based format
+- Connected to **Binance WebSocket API** for live crypto data feeds and **Dukascopy** for Forex feeds
+- Integrated **FIX API** to connect with a live CTrader demo account — bots generated real trade execution signals that **executed successfully**
+- Frontend drag-and-drop interface serialises user-designed bot logic to **JSON**, which the backend reconstructs into a live, executable trading algorithm
+- Fully built **alone**, between university assignments and personal setbacks
+
+🌐 Frontend live at [algoracloud.com](http://algoracloud.com)
+
+
+
+### 🌐 Synergic Intelligent Systems — Company Website
+> *Next.js · TypeScript · Tailwind CSS · SEO · Performance Optimisation*
+
+Contracted remotely to build the public-facing website for **Synergic Intelligent Systems**, a tech company based in Greece.
+
+- Built entirely in **Next.js + TypeScript** with Tailwind CSS
+- Heavily optimised for **Core Web Vitals**, SEO, and fast load times
+- Production-grade frontend delivered remotely as a solo developer
+
+🌐 Live at [synergic.vercel.app](https://synergic.vercel.app)
+
+
+
+### 🧾 Bigmart Textiles — POS & Inventory Management System
+> *Next.js · TypeScript · Tailwind CSS · Server Actions · MySQL*
+
+Built a full **Point of Sale and Inventory Management System** for a textile retail business in Sri Lanka — currently in active use.
+
+- Manages products, stock levels, transactions, refunds, and stock returns
+- Customer **loyalty points system** and **credit notes** from suppliers
+- Printable **receipts, refund receipts, Good Receive Notes, and stock return notes**
+- End-to-end, from database design to UI — shipped and deployed for a real business
+
+
+
+### 🏨 Hotel Management App *(In Progress)*
+> *Android · Express.js · REST API · Vercel*
+
+Currently building a Hotel Management Android application for a university assignment, backed by a custom **Express.js REST API** hosted on Vercel.
+
+🔗 [View on GitHub](https://github.com/abdullah-fareed1)
+
+
+
+## 🛠 Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/Java-%23000000.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23000000.svg?style=flat-square&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-%23000000.svg?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%23000000.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23000000.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools & Concepts**
+![Hibernate](https://img.shields.io/badge/Hibernate-%23000000.svg?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=flat-square&logo=socketdotio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%23000000.svg?style=flat-square&logo=android&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-fareed1&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fareed1&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-fareed1&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&border=333333)
+
+</div>
+
+
+
+## 💡 What I'm Looking For
+
+I want to work on **scalable SaaS products** — ideally with people who move fast and build things that matter. I've already attempted to build one during my undergrad. I know what that takes.
+
+I'm not looking for a role to learn the basics. I'm looking for the right environment to go from *building serious things alone* to *building serious things with a team*.
+
+If you're working on something ambitious and you need someone who ships — let's talk.
+
+📩 **[abdullahfareed882@gmail.com](mailto:abdullahfareed882@gmail.com)**
+
+
+
+<div align="center">
+  <sub>Final Year · Birmingham City University · Sri Lanka · Open to Remote</sub>
+</div>
