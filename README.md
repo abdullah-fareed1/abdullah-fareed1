@@ -92,7 +92,8 @@ Live at [resemblite.com](https://resemblite.com)
 
 Currently building a Hotel Management Android application for a university assignment, backed by a custom **Express.js REST API** hosted on Vercel.
 
-🔗 [View on GitHub](https://github.com/abdullah-fareed1)
+🔗 [View Android Frontend on Github](https://github.com/abdullah-fareed1/stayease-frontend)
+🔗 [View ExpressJs Backend on GitHub](https://github.com/abdullah-fareed1/stayease-backend)
 
 
 
