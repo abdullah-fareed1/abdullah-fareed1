@@ -3,7 +3,7 @@
 # Hey, I'm Abdullah. 👋
 ### Fullstack Software Engineering Undergrad · Birmingham City University · Final Year
 
-*I build things that should probably take a team — alone, from Sri Lanka, between assignments and deadlines.*
+*I build things that should probably take a team, alone, between assignments and deadlines.*
 
 <a href="https://linkedin.com/in/fareed-abdullah/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/abdullh.far"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
